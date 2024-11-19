@@ -19,10 +19,9 @@ Welcome to the Nature Exploring Site project! This website is designed to give u
 
 ### Setup:
 Clone the repository.
-
-bash:
-Copy code
+```
 git clone https://github.com/your-username/nature-exploring-site.git
+```
 Navigate to the project directory.
 
 bash:
