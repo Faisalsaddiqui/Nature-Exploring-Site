@@ -3,8 +3,11 @@ Welcome to the Nature Exploring Site project! This website is designed to give u
 
 ### Features
 **Interactive UI:** Smooth transitions and animations for a seamless browsing experience.
+
 **Responsive Design:**  Fully responsive layout optimized for desktops, tablets, and mobile devices.
+
 **Beautiful Imagery:**  Stunning visuals of nature to captivate users and enhance engagement.
+
 **avaScript Animations:**  Subtle animations and effects to bring the website to life.
 
 ### Technologies Used
