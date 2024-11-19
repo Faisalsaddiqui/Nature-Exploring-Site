@@ -18,11 +18,11 @@ Welcome to the Nature Exploring Site project! This website is designed to give u
 **JavaScript:**  Interactivity and dynamic content.
 
 ### Setup
-Clone the repository.
+Clone the repository
 ```
 git clone https://github.com/your-username/nature-exploring-site.git
 ```
-Navigate to the project directory.
+Navigate to the project directory
 
 bash:
 Copy code
