@@ -2,13 +2,13 @@
 Welcome to the Nature Exploring Site project! This website is designed to give users an immersive experience of exploring nature through a beautiful, interactive interface. It highlights the natural beauty of landscapes, forests, mountains, and wildlife.
 
 ### Features
-**Interactive UI:** Smooth transitions and animations for a seamless browsing experience.
+- **Interactive UI:** Smooth transitions and animations for a seamless browsing experience.
 
-**Responsive Design:**  Fully responsive layout optimized for desktops, tablets, and mobile devices.
+- **Responsive Design:**  Fully responsive layout optimized for desktops, tablets, and mobile devices.
 
-**Beautiful Imagery:**  Stunning visuals of nature to captivate users and enhance engagement.
+- **Beautiful Imagery:**  Stunning visuals of nature to captivate users and enhance engagement.
 
-**avaScript Animations:**  Subtle animations and effects to bring the website to life.
+- **avaScript Animations:**  Subtle animations and effects to bring the website to life.
 
 ### Technologies Used
 **HTML5:**  Structure and content.
