@@ -23,16 +23,10 @@ Clone the repository
 git clone https://github.com/your-username/nature-exploring-site.git
 ```
 Navigate to the project directory
-
-bash:
-Copy code
+```
 cd nature-exploring-site
+```
 Open the index.html file in your preferred browser to view the site locally.
-
-bash:
-Copy code
-open index.html
-or simply double-click the file.
 
 ### Usage:
 Explore the different sections, click on elements to view interactive animations, and resize your browser to see the responsive design in action.
