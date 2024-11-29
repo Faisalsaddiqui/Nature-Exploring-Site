@@ -8,7 +8,7 @@ Welcome to the Nature Exploring Site project! This website is designed to give u
 
 - **Beautiful Imagery:**  Stunning visuals of nature to captivate users and enhance engagement.
 
-- **avaScript Animations:**  Subtle animations and effects to bring the website to life.
+- **JavaScript Animations:**  Subtle animations and effects to bring the website to life.
 
 ### Technologies Used
 **HTML5:**  Structure and content.
