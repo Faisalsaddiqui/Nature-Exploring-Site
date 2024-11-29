@@ -17,7 +17,7 @@ Welcome to the Nature Exploring Site project! This website is designed to give u
 
 **JavaScript:**  Interactivity and dynamic content.
 
-### Setup
+### How to run
 Clone the repository
 ```
 git clone https://github.com/your-username/nature-exploring-site.git
