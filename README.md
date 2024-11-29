@@ -28,10 +28,10 @@ cd nature-exploring-site
 ```
 Open the index.html file in your preferred browser to view the site locally.
 
-### Usage:
+### Usage
 Explore the different sections, click on elements to view interactive animations, and resize your browser to see the responsive design in action.
 
-### Contributing:
+### Contributing
 Contributions are welcome! If you'd like to improve this project, feel free to submit a pull request. Please make sure your code follows best practices and is well-documented.
 
 
